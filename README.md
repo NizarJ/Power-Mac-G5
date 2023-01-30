@@ -16,3 +16,24 @@ Point-to-point system controller
 
 ### Memory 
 * 128-bit data paths for up to 6.4-GBps memory throughput 1.6GHz model 256MB of PC2700 (333MHz) DDR SDRAM Four DIMM slots supporting up to 4GB of main memory 1.8GHz systems and 2Ghz systems 512MB of PC3200 (400MHz) DDR SDRAM Eight DIMM slots supporting up to 8GB of main memory Support for the following DIMMs (in pairs): 128MB DIMMs (64-bit-wide, 128- or 256-Mbit) 256MB DIMMs (64-bit-wide, 128- or 256-Mbit) 512MB DIMMs (64-bit-wide, 256-Mbit) 1GB DIMMs (64-bit-wide, 256-Mbit)
+
+# MacBook Pro
+
+### Introduction to the MacBook Pro
+
+![alt text](https://www.apple.com/v/macbook-pro-13/p/images/overview/hero_endframe__bsza6x4fldiq_large_2x.jpg)
+
+### Processing
+* Advanced image signal processor with computational video
+
+### Graphics
+* Many 15-inch MacBook Pro laptops have two graphics processors (GPU)—a discrete GPU and an integrated GPU. The discrete GPU provides substantial graphics performance but uses more energy. The integrated GPU optimizes battery life by using less energy.
+
+### Storage
+* The MacBook Pro has a huge amount of storage with the options of 512GB, 1TB, or 2TB.
+
+### Memory
+* The MacBook Pro is built with the Intel-based Processor. It has two memory sockets and can be upgraded to 2-8GBs maximum depending on your model.
+
+# Conclusion
+* From what we can see the MacBook Pro has way better specs since it's the newer PC.
